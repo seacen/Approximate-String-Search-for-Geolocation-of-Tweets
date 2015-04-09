@@ -1,0 +1,4 @@
+4045471	Goose Hill	Goose Hill		51.92583	177.45556	T	MT	US		AK	016			0		42	America/Adak	2010-01-30
+4078652	Mountain Creek Baptist Church	Mountain Creek Baptist Church		32.71263	-86.47831	S	CH	US		AL	021			0	159	166	America/Chicago	2006-01-15
+4089216	Seventyseventh Street Church of Christ	Seventyseventh Street Church of Christ		33.55927	-86.72666	S	CH	US		AL	073			0	201	206	America/Chicago	2007-02-14
+4379548	Call	Call		37.20116	-93.77715	P	PPL	US		MO	109			0	405	407	America/Chicago	2006-01-15
